@@ -1,0 +1,4 @@
+#Sun Nov 17 17:29:35 IST 2019
+base.0=/Users/ib_mac1/Desktop/React Native/Sudhir/Demo_React_Native/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
