@@ -5,7 +5,8 @@ INJECTED from /Users/ib_mac1/Desktop/React Native/Sudhir/Demo_React_Native/andro
 INJECTED from /Users/ib_mac1/Desktop/React Native/Sudhir/Demo_React_Native/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/ib_mac1/Desktop/React Native/Sudhir/Demo_React_Native/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from /Users/ib_mac1/Desktop/React Native/Sudhir/Demo_React_Native/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from [com.facebook.react:react-native:0.61.4] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/323ca29aa5ba2c778af54a68d2c49328/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-svg] /Users/ib_mac1/Desktop/React Native/Sudhir/Demo_React_Native/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/4e5aeedce5655aeda1b13fbffece050b/AndroidManifest.xml:2:1-13:12
 MERGED from [org.webkit:android-jsc:r245459] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/205428c2d18e9955818c5ce2a68ce200/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/df39129be893e975c0018dccc279fd34/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/754bf96bb93a89d78864b0e2e9787349/AndroidManifest.xml:2:1-9:12
@@ -41,7 +42,7 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ib_mac1/.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/46499d32f0907736022b5ce7d3bc2d4d/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/fdc7eebcc4abf4bde7a0c0d730a69710/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/22a55ec76ff4f435fe3197394b2deae8/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/16bb8374c7000b8a680a5f92a60c8333/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/b6d7a8b2b8a8443928fc7287ff34edf6/AndroidManifest.xml:2:1-9:12
 INJECTED from /Users/ib_mac1/Desktop/React Native/Sudhir/Demo_React_Native/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 INJECTED from /Users/ib_mac1/Desktop/React Native/Sudhir/Demo_React_Native/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 INJECTED from /Users/ib_mac1/Desktop/React Native/Sudhir/Demo_React_Native/android/app/src/debug/AndroidManifest.xml:2:1-8:12
@@ -70,8 +71,8 @@ application
 ADDED from /Users/ib_mac1/Desktop/React Native/Sudhir/Demo_React_Native/android/app/src/main/AndroidManifest.xml:6:5-24:19
 MERGED from /Users/ib_mac1/Desktop/React Native/Sudhir/Demo_React_Native/android/app/src/main/AndroidManifest.xml:6:5-24:19
 MERGED from /Users/ib_mac1/Desktop/React Native/Sudhir/Demo_React_Native/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from [com.facebook.react:react-native:0.61.4] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/323ca29aa5ba2c778af54a68d2c49328/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.61.4] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/323ca29aa5ba2c778af54a68d2c49328/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/4e5aeedce5655aeda1b13fbffece050b/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/4e5aeedce5655aeda1b13fbffece050b/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/fa30a5c41e8aa62e464ff0bf75c43259/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/fa30a5c41e8aa62e464ff0bf75c43259/AndroidManifest.xml:11:5-20
 MERGED from [androidx.core:core:1.0.1] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/0e3a4bb1393e168d0a087b68eb2545d0/AndroidManifest.xml:22:5-89
@@ -132,8 +133,10 @@ uses-sdk
 INJECTED from /Users/ib_mac1/Desktop/React Native/Sudhir/Demo_React_Native/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/ib_mac1/Desktop/React Native/Sudhir/Demo_React_Native/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/ib_mac1/Desktop/React Native/Sudhir/Demo_React_Native/android/app/src/main/AndroidManifest.xml
-MERGED from [com.facebook.react:react-native:0.61.4] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/323ca29aa5ba2c778af54a68d2c49328/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.61.4] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/323ca29aa5ba2c778af54a68d2c49328/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/ib_mac1/Desktop/React Native/Sudhir/Demo_React_Native/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/ib_mac1/Desktop/React Native/Sudhir/Demo_React_Native/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/4e5aeedce5655aeda1b13fbffece050b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/4e5aeedce5655aeda1b13fbffece050b/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/205428c2d18e9955818c5ce2a68ce200/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/205428c2d18e9955818c5ce2a68ce200/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/df39129be893e975c0018dccc279fd34/AndroidManifest.xml:20:5-44
@@ -204,8 +207,8 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ib_mac1/.gradle/cache
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/fdc7eebcc4abf4bde7a0c0d730a69710/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/22a55ec76ff4f435fe3197394b2deae8/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/22a55ec76ff4f435fe3197394b2deae8/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/16bb8374c7000b8a680a5f92a60c8333/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/16bb8374c7000b8a680a5f92a60c8333/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/b6d7a8b2b8a8443928fc7287ff34edf6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ib_mac1/.gradle/caches/transforms-2/files-2.1/b6d7a8b2b8a8443928fc7287ff34edf6/AndroidManifest.xml:5:5-7:41
 INJECTED from /Users/ib_mac1/Desktop/React Native/Sudhir/Demo_React_Native/android/app/src/debug/AndroidManifest.xml
 INJECTED from /Users/ib_mac1/Desktop/React Native/Sudhir/Demo_React_Native/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion

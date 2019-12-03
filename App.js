@@ -27,7 +27,7 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 import Login from './Screens/login.js'
-import CounterApp from './src/component/screen/counterApp'
+import LineChartExample from './src/component/screen/LineChartExample'
 // const App = () => {
 //   return (
 //     <Login/>
@@ -37,7 +37,7 @@ import CounterApp from './src/component/screen/counterApp'
 export default class App extends Component{
   render(){
     return(
-      <CounterApp/> 
+      <LineChartExample/> 
     );
   }
       
